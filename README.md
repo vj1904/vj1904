@@ -7,7 +7,7 @@
 
 - 🌱 I'm on track for learning more about **Web Development**.
 
-- 💬 Ask me about **UI/UX , MEARN**
+- 💬 Ask me about **UI/UX , MERN**
 
 - 📫 How to reach me **vaibhavjaiswalvj19@gmail.com**
 
